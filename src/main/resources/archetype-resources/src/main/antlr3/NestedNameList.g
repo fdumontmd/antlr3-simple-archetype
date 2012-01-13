@@ -1,3 +1,7 @@
+// Derived from code for Language Implementation Patterns
+// http://pragprog.com/book/tpdsl/language-implementation-patterns
+// Original source code can be downloaded from
+// http://pragprog.com/titles/tpdsl/source_code
 grammar NestedNameList;
 
 @header {
